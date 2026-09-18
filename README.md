@@ -65,9 +65,6 @@ Attention to detail · Risk assessment · Idea generation · Reliability & punct
 
 English (A2) · Spanish (-)
 
-<p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=i-kiki&show_icons=true&hide_border=true&bg_color=000000&title_color=00ff41&text_color=00ff41&icon_color=00ff41" alt="GitHub stats">
-</p>
 
 <!-- If the stats card doesn't load (the public server is sometimes overloaded),
      delete the whole STATS block: the profile looks fine without it. -->
