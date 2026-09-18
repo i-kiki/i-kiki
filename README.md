@@ -54,7 +54,7 @@
 - Network protocols, packet capture and traffic analysis (Python)
 - Information security fundamentals and the Information Security Doctrine of Russia
 - FSTEC requirements
-- Information security legislation: 152-FZ, 149-FZ, 115-FZ
+- Information security legislation
 - Banking and financial sector basics
 
 **Soft skills**
@@ -63,9 +63,7 @@ Attention to detail · Risk assessment · Idea generation · Reliability & punct
 
 **Languages**
 
-English (A2) · Spanish (beginner)
-
-<img src="h-stats.svg" alt="STATS">
+English (A2) · Spanish (-)
 
 <p>
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=i-kiki&show_icons=true&hide_border=true&bg_color=000000&title_color=00ff41&text_color=00ff41&icon_color=00ff41" alt="GitHub stats">
