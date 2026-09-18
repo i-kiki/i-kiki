@@ -3,10 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/InfoSec-000000?style=for-the-badge&logo=hackthebox&logoColor=00ff41" alt="InfoSec">
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff41" alt="Python">
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00ff41" alt="Linux">
-  <img src="https://img.shields.io/badge/Cat%20lady-000000?style=for-the-badge&logo=github&logoColor=00ff41" alt="Cat lady">
+  <img src="https://img.shields.io/badge/Cat%20lady-000000?style=for-the-badge&logo=github&logoColor=00ff41" alt="The cat lady">
 </p>
 
 <img src="h-about.svg" alt="ABOUT_ME">
